@@ -1,0 +1,17 @@
+{
+  "log_level": "DEBUG",
+  "spark_master": "yarn-client",
+  "path_maestra": "impala::UTILITARIOS.METADATA_MAESTRA_XML",
+  "path_estructura": "impala::UTILITARIOS.metadata_estructuras_xml",
+  "path_log_operacional": "impala::streaming.mbaas_log_operacional",
+  "path_nt": "impala::8096_woombat.prueba_monitoreo",
+  "path_batch": "batch_rtd.json",
+  "kudu_master" : "savcmaster-14f94ce7.ms.davivienda.cloud, savcmaster-1af6073c.ms.davivienda.cloud, savcmaster-2cb71931.ms.davivienda.cloud",
+  "ss_batch_secs" : "2",
+  "spark_log_level" : "WARN",
+  "brokers" : "10.196.65.250:9092,10.196.66.18:9092,10.196.65.232:9092",
+  "group_id" : "default",
+  "security" : "PLAINTEXT",
+  "sasl_mechanism" : "GSSAPI",
+  "identificador": "Mbaas_General"
+}

@@ -1,0 +1,4 @@
+[debug] [monitoreo_kafka_col-test] Classpath dependencies List()
+[debug] [monitoreo_kafka_col-test] Dependencies from configurations List(monitoreo_kafka_col)
+[debug] Bloop wrote the configuration of project 'monitoreo_kafka_col-test' to 'C:\Users\juanc\OneDrive\Documents\Monitoreo_kafka_col\.bloop\monitoreo_kafka_col-test.json'
+[success] Generated .bloop\monitoreo_kafka_col-test.json
